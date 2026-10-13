@@ -1,0 +1,14 @@
+[
+  {
+    "galleryId": "000101",
+    "type": 0,
+    "scripts": [
+      "script_cg1.txt",
+      "script_cg2.txt"
+    ],
+    "isSound": [
+      false,
+      false
+    ]
+  }
+]
