@@ -1,7 +1,23 @@
 [
   {
     "galleryId": "018401",
+    "name": "梵昇",
     "type": 0,
+    "isJp": true,
+    "scripts": [
+      "script_cg1.txt",
+      "script_cg2.txt"
+    ],
+    "isSound": [
+      false,
+      false
+    ]
+  },
+  {
+    "galleryId": "014601",
+    "name": "马房莱斗",
+    "type": 0,
+    "isJp": false,
     "scripts": [
       "script_cg1.txt",
       "script_cg2.txt"
